@@ -18,6 +18,8 @@ Quality assurance and release readiness are built into daily execution, not trea
 - [Release and Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Decision Log Template](./octoacme-decision-log-template.md)
+- [Cross-Functional Handoff Checklist](./octoacme-handoff-checklist.md)
 
 ## Roles
 
@@ -26,6 +28,12 @@ Quality assurance and release readiness are built into daily execution, not trea
 - **Developers:** Implement solutions, participate in estimation and design decisions, and maintain engineering quality.
 - **QA/Testing:** Validates acceptance criteria, testing coverage, and release readiness across environments.
 - **Stakeholders:** Provide strategic input, approve key decisions, and review progress against business objectives.
+- **Engineering Manager/Tech Lead:** Guides technical direction, maintains engineering standards, and manages team capacity.
+- **UX/UI Designer:** Creates user-centered designs and ensures delivered experiences meet usability and accessibility standards.
+- **DevOps/SRE:** Builds and operates CI/CD pipelines, deployment infrastructure, and production reliability practices.
+- **Security/Compliance:** Ensures security requirements and regulatory obligations are met throughout the project lifecycle.
+- **Customer Support/Success:** Bridges the product team and customers by surfacing feedback and supporting post-release adoption.
+- **Data Analyst:** Provides metrics, dashboards, and data-driven insights to support product and project decision-making.
 
 ## How Team Members Should Use These Docs
 
